@@ -13,7 +13,7 @@
 <body>
 
   <div class="calculadora">
-       <span id="totalGeral">Total:/>0,00</span>
+       <span id="totalGeral">Total:  0,00</span><br>
     Valor: <input id="valor" type="text"><br>
     Juros(Mensais): <input id="juros" type="text"><br>
     Nr Meses: <input id="meses" type="text"><br>
