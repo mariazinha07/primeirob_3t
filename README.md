@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Jesus Maringá - Nr. 50
+Maria Eduarda - Nr.21
 
 ## Conteúdo
 HTML, CSS e javaScript
